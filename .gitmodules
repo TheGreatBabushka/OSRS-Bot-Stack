@@ -1,0 +1,9 @@
+[submodule "bot-dashboard"]
+	path = bot-dashboard
+	url = https://github.com/TheGreatBabushka/osrs-bot-dashboard.git
+[submodule "bot-api"]
+	path = bot-api
+	url = https://github.com/TheGreatBabushka/osrs-bot-api.git
+[submodule "dreambot-scripts"]
+	path = dreambot-scripts
+	url = https://github.com/TheGreatBabushka/osrs-dreambot-scripts
